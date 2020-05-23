@@ -1,7 +1,7 @@
 # Mineria_de_datos
-Proyecto hecho en la asignatura mineria de Datos de la UCM
+Proyecto UANEO realizado en la optativa de mineria de datos de la UCM.
 <p>
-Proyecto UANEO realizado por:
+Contribuidores:
   <u1><li type ="disc">
     Luis Pozas : https://github.com/luispozas</li>
      <li type ="disc">
